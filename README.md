@@ -10,7 +10,6 @@
 ## Snapshot of Dashboards:
 
 - Tracking KPIs
-
 ![Image](https://github.com/user-attachments/assets/04eec060-73a8-4711-9a39-18d2e93b6e09)
 
 - Adding drill-through page
