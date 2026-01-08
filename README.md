@@ -6,7 +6,6 @@
 - Designed an interactive Power BI dashboard integrating MS SQL Server and Excel to monitor claims, premiums, coverage, policy details, customer demographics, and feedback sentiment scores
 - Enhanced data visibility through dynamic visuals, slicers, and drill-through functionality
 
-
 ## Snapshot of Dashboards:
 
 - Tracking KPIs
